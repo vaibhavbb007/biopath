@@ -1,0 +1,31 @@
+img.img-responsive{
+  padding:20px;
+}
+
+header{
+  background:#524a8b;
+}
+
+ul.nav.nav-tabs{
+  float:right;
+  padding:17px;
+  padding-top:23px;
+  border:none;
+}
+a{
+  color:#ffffff;
+  font-family:ubuntu;
+  font-size:20px;
+}
+img.img-responsive{
+  height:90px;
+  width:300px;
+}
+a:active{
+  text-decoration: none;
+}
+
+title{
+  font-family: ubuntu;
+  font-size: 20px;
+}
